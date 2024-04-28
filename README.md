@@ -1,6 +1,6 @@
 <h1>Ransomware Implementation Using Python Cryptography Libraries</h1>
 ##Introduction
-Ransomware
+Ransomware is a malicious software or code that is used to infect or attack victim by encrypting the data and demand for ransom to decrypt the data. we have used python to create our encryption executable file that can encrypt data in a specified directory. We have used fernet library to generate encryptio key to encrypt data.
 ## Directory Structure
 
 ```
