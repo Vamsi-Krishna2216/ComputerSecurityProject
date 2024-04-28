@@ -2,6 +2,7 @@
 ##Introduction
 Ransomware
 ## Directory Structure
+
 ```
 ComputerSecurity/
 ├── Codes/
@@ -19,4 +20,3 @@ ComputerSecurity/
 │ ├── Dist/
 │ │ └── Encryption_code # Compiled executable for Windows
 │ └── Encryption_code.spec # Spec file for PyInstaller or similar tools
-```
